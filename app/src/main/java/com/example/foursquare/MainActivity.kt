@@ -3,6 +3,8 @@ package com.example.foursquare
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
+// LEO ESTUVO AQUI
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
